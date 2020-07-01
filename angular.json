@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TypeScriptPlayground"
+    }
+  },
+  "defaultProject": "TypeScriptPlayground",
+  "cli": {
+    "analytics": "07c4d576-8bc8-47ba-b6b2-b558e6c389e1"
+  }
 }

@@ -1,0 +1,9 @@
+.navigation {
+  background-color: #80e9bb;
+  border: groove;
+  border-radius: 1rem;
+  margin: 0 auto;
+  font-size: 2rem;
+  font-family: "Arvo", cursive;
+  padding-left: 2rem;
+}
